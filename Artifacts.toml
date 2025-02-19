@@ -1,0 +1,160 @@
+[[esbuild]]
+arch = "aarch64"
+git-tree-sha1 = "8ec76c7ffacd25e1cb9c0948cb4d0471c3a47804"
+os = "macos"
+
+    [[esbuild.download]]
+    sha256 = "2db7c570e9ae205de67e8c950171b43a12592ad5e4957f37300f25824896080c"
+    url = "https://github.com/JuliaBinaryWrappers/esbuild_jll.jl/releases/download/esbuild-v0.25.0+0/esbuild.v0.25.0.aarch64-apple-darwin.tar.gz"
+[[esbuild]]
+arch = "aarch64"
+git-tree-sha1 = "7e90d0b55ebc663b40c9c46f13105c724d250ff9"
+libc = "glibc"
+os = "linux"
+
+    [[esbuild.download]]
+    sha256 = "db6e8a3c9860769af5308a18bf9aab6764c5ad60cb810fa05ccbbdc8c5c529d4"
+    url = "https://github.com/JuliaBinaryWrappers/esbuild_jll.jl/releases/download/esbuild-v0.25.0+0/esbuild.v0.25.0.aarch64-linux-gnu.tar.gz"
+[[esbuild]]
+arch = "aarch64"
+git-tree-sha1 = "7e90d0b55ebc663b40c9c46f13105c724d250ff9"
+libc = "musl"
+os = "linux"
+
+    [[esbuild.download]]
+    sha256 = "db6e8a3c9860769af5308a18bf9aab6764c5ad60cb810fa05ccbbdc8c5c529d4"
+    url = "https://github.com/JuliaBinaryWrappers/esbuild_jll.jl/releases/download/esbuild-v0.25.0+0/esbuild.v0.25.0.aarch64-linux-musl.tar.gz"
+[[esbuild]]
+arch = "aarch64"
+git-tree-sha1 = "7ae706267533dc7226e18ceea3fc0a70988b67ea"
+os = "freebsd"
+
+    [[esbuild.download]]
+    sha256 = "9ff3113263c28444eb28da0d67ee7697481f818ab9ee13cd3866314bf35c10f3"
+    url = "https://github.com/JuliaBinaryWrappers/esbuild_jll.jl/releases/download/esbuild-v0.25.0+0/esbuild.v0.25.0.aarch64-unknown-freebsd.tar.gz"
+[[esbuild]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "cc0de5814eea3551318a2e9381b9b6a486c6bae3"
+libc = "glibc"
+os = "linux"
+
+    [[esbuild.download]]
+    sha256 = "dda988c271cd41d9cb9c6214032ee216278ceb08e8eefa4b1777a8a1a86bdd2c"
+    url = "https://github.com/JuliaBinaryWrappers/esbuild_jll.jl/releases/download/esbuild-v0.25.0+0/esbuild.v0.25.0.armv6l-linux-gnueabihf.tar.gz"
+[[esbuild]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "cc0de5814eea3551318a2e9381b9b6a486c6bae3"
+libc = "musl"
+os = "linux"
+
+    [[esbuild.download]]
+    sha256 = "dda988c271cd41d9cb9c6214032ee216278ceb08e8eefa4b1777a8a1a86bdd2c"
+    url = "https://github.com/JuliaBinaryWrappers/esbuild_jll.jl/releases/download/esbuild-v0.25.0+0/esbuild.v0.25.0.armv6l-linux-musleabihf.tar.gz"
+[[esbuild]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "d539c531e6c912070ea12bd3a8b10444af8fc5c9"
+libc = "glibc"
+os = "linux"
+
+    [[esbuild.download]]
+    sha256 = "96ac962a413b932c51ad9d04e649d8c1f96dac5457ea8b18437921f655535787"
+    url = "https://github.com/JuliaBinaryWrappers/esbuild_jll.jl/releases/download/esbuild-v0.25.0+0/esbuild.v0.25.0.armv7l-linux-gnueabihf.tar.gz"
+[[esbuild]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "d539c531e6c912070ea12bd3a8b10444af8fc5c9"
+libc = "musl"
+os = "linux"
+
+    [[esbuild.download]]
+    sha256 = "96ac962a413b932c51ad9d04e649d8c1f96dac5457ea8b18437921f655535787"
+    url = "https://github.com/JuliaBinaryWrappers/esbuild_jll.jl/releases/download/esbuild-v0.25.0+0/esbuild.v0.25.0.armv7l-linux-musleabihf.tar.gz"
+[[esbuild]]
+arch = "i686"
+git-tree-sha1 = "df85991a856f2f850023e0c4025fbbb3e9b22ff0"
+libc = "glibc"
+os = "linux"
+
+    [[esbuild.download]]
+    sha256 = "db982df22821d46c03cf6cdd3dbdc99a9edabf89944e2b6b6793802b54415e1a"
+    url = "https://github.com/JuliaBinaryWrappers/esbuild_jll.jl/releases/download/esbuild-v0.25.0+0/esbuild.v0.25.0.i686-linux-gnu.tar.gz"
+[[esbuild]]
+arch = "i686"
+git-tree-sha1 = "df85991a856f2f850023e0c4025fbbb3e9b22ff0"
+libc = "musl"
+os = "linux"
+
+    [[esbuild.download]]
+    sha256 = "db982df22821d46c03cf6cdd3dbdc99a9edabf89944e2b6b6793802b54415e1a"
+    url = "https://github.com/JuliaBinaryWrappers/esbuild_jll.jl/releases/download/esbuild-v0.25.0+0/esbuild.v0.25.0.i686-linux-musl.tar.gz"
+[[esbuild]]
+arch = "i686"
+git-tree-sha1 = "84fb12b0dcac4de191cf7dc98417480f664c3385"
+os = "windows"
+
+    [[esbuild.download]]
+    sha256 = "89ccb1b8c0d26b99c6d3a6028417d59e5cb595d36e2795658e33401e2c24e17a"
+    url = "https://github.com/JuliaBinaryWrappers/esbuild_jll.jl/releases/download/esbuild-v0.25.0+0/esbuild.v0.25.0.i686-w64-mingw32.tar.gz"
+[[esbuild]]
+arch = "powerpc64le"
+git-tree-sha1 = "021d5d1f1d9a2a3e0155ff3524d7c62b527bb378"
+libc = "glibc"
+os = "linux"
+
+    [[esbuild.download]]
+    sha256 = "a8179c5a16cc7374d62276ef9db29fcbb558a9b634708a4bd801618c9d787946"
+    url = "https://github.com/JuliaBinaryWrappers/esbuild_jll.jl/releases/download/esbuild-v0.25.0+0/esbuild.v0.25.0.powerpc64le-linux-gnu.tar.gz"
+[[esbuild]]
+arch = "riscv64"
+git-tree-sha1 = "0abb81328276940ef289aa2b9a37c0baea7a13df"
+libc = "glibc"
+os = "linux"
+
+    [[esbuild.download]]
+    sha256 = "a98c07bfe98448a4cc89312235030b47557a5f3d05074865a5515920a7950fba"
+    url = "https://github.com/JuliaBinaryWrappers/esbuild_jll.jl/releases/download/esbuild-v0.25.0+0/esbuild.v0.25.0.riscv64-linux-gnu.tar.gz"
+[[esbuild]]
+arch = "x86_64"
+git-tree-sha1 = "ed877b897c06928bdc517494a9ca30dd21743408"
+os = "macos"
+
+    [[esbuild.download]]
+    sha256 = "6b6e4bdea1b29f3c9b396756f9929982b9abbaf65114868a097b9fe0eade68c3"
+    url = "https://github.com/JuliaBinaryWrappers/esbuild_jll.jl/releases/download/esbuild-v0.25.0+0/esbuild.v0.25.0.x86_64-apple-darwin.tar.gz"
+[[esbuild]]
+arch = "x86_64"
+git-tree-sha1 = "a36163683195a25fcd7814fdf6a55bf1b565b807"
+libc = "glibc"
+os = "linux"
+
+    [[esbuild.download]]
+    sha256 = "7666552fefbdb7092cbf5829feeb895af70b99872fedd38f74b48e1b42d5795a"
+    url = "https://github.com/JuliaBinaryWrappers/esbuild_jll.jl/releases/download/esbuild-v0.25.0+0/esbuild.v0.25.0.x86_64-linux-gnu.tar.gz"
+[[esbuild]]
+arch = "x86_64"
+git-tree-sha1 = "0e6207bb4861ce969b32b84a3115c91e3d895759"
+libc = "musl"
+os = "linux"
+
+    [[esbuild.download]]
+    sha256 = "0201e737793207ea76555f05dd340c4a263f4d23345013ada6eaef18d80fc814"
+    url = "https://github.com/JuliaBinaryWrappers/esbuild_jll.jl/releases/download/esbuild-v0.25.0+0/esbuild.v0.25.0.x86_64-linux-musl.tar.gz"
+[[esbuild]]
+arch = "x86_64"
+git-tree-sha1 = "285a68597970dd0735a4262f121f9417ebdb3872"
+os = "freebsd"
+
+    [[esbuild.download]]
+    sha256 = "8159b12c83b7e178df94f23cfab6603f81cbd9f5f0766d790838a81c8af397c2"
+    url = "https://github.com/JuliaBinaryWrappers/esbuild_jll.jl/releases/download/esbuild-v0.25.0+0/esbuild.v0.25.0.x86_64-unknown-freebsd.tar.gz"
+[[esbuild]]
+arch = "x86_64"
+git-tree-sha1 = "65b5383c8a1a3a830159020cb10630c1aa7cdd38"
+os = "windows"
+
+    [[esbuild.download]]
+    sha256 = "043f806f0c73a5eb71d0e5049cae6f47616993d3c7502cff339819ff2799508d"
+    url = "https://github.com/JuliaBinaryWrappers/esbuild_jll.jl/releases/download/esbuild-v0.25.0+0/esbuild.v0.25.0.x86_64-w64-mingw32.tar.gz"
